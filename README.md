@@ -17,15 +17,6 @@
 
 <br/>
 
-## 📌 Índice
-
-<div align="center">
-
-| [👋 Sobre mim](#-sobre-mim) | [🛠️ Tecnologias](#️-tecnologias--ferramentas) | [🚀 Projetos](#-projetos-em-destaque) | [📊 Estatísticas](#-estatísticas-github) | [📚 Formação](#-formação--certificados) | [📫 Contato](#-contato) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
 <br/>
 
 ## 👋 Sobre mim
