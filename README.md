@@ -33,7 +33,7 @@ Sou estudante de Tecnologia, atualmente cursando Ciência da Computação na Uni
 ```yaml
 Nome: Christiano
 Função: Estudante de Tecnologia
-Foco: Programação · Dados · Hardware Digital
+Foco: Programação · Dados 
 Localização: Brasil 🇧🇷
 Idiomas: Português (nativo), Inglês
 ```
