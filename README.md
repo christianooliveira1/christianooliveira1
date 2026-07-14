@@ -79,10 +79,10 @@ Sou estudante de tecnologia, atualmente cursando **Ciência da Computação** na
 
 <div align="center">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianooliveira1/christianooliveira1/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianooliveira1/christianooliveira1/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/christianooliveira1/christianooliveira1/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/pacman.svg">
+    <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
 </picture>
 
 </div>
