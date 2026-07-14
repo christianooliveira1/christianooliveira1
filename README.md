@@ -10,36 +10,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de Tecnologia, atualmente cursando disciplinas como **Circuitos Digitais** e **Fundamentos de Programação em C**
+- 🎓 Estudante de Tecnologia, atualmente cursando Ciência da Computação na Universidade Federal do Ceará (UFC)
 - 💡 Interessado em desenvolvimento com foco em **dados**, **automação** e **boas práticas de programação**
-- 🛠️ Gosto de aprender construindo projetos práticos, além do que é exigido nas disciplinas
 - 📍 Brasil
-- 📫 Como me encontrar: [substituir por e-mail, LinkedIn, etc.]
-
----
-
-### 🚀 Projetos em destaque
-
-#### 📊 Previsão de Vendas em E-commerce (Python)
-Projeto de análise e previsão de vendas usando um dataset de varejo, incluindo:
-- Visualização de dados com estilo inspirado em `ggplot2`
-- Tratamento de anomalias nos dados
-- Próximas etapas: segmentação de clientes e modelo de previsão
-
-🔗 `[link do repositório aqui]`
-
-#### 📝 Sistema de Cadastro de Alunos (C)
-Sistema desenvolvido em C como projeto final da disciplina de Fundamentos de Programação, com:
-- Manipulação de arquivos
-- Uso de `structs`
-- Sistema de autenticação de usuários
-
-🔗 `[link do repositório aqui]`
-
-#### 🔌 Projetos de Circuitos Digitais
-Projetos práticos envolvendo contadores síncronos com flip-flops tipo D, decodificadores BCD para display de sete segmentos, máquinas de estado finito (FSM) e sistemas de memória.
-
-🔗 `[link do repositório aqui]`
+- 📫 Como me encontrar: christianomota12@gmail.com
 
 ---
 
@@ -69,10 +43,9 @@ Projetos práticos envolvendo contadores síncronos com flip-flops tipo D, decod
 
 ### 📫 Contato
 
-- 📧 E-mail: `[seu-email@exemplo.com]`
-- 💼 LinkedIn: `[link do seu LinkedIn]`
-- 🐙 GitHub: `[github.com/SEU-USUARIO]`
+- 📧 E-mail: `christianomota12@gmail.com`
+- 💼 LinkedIn: `https://www.linkedin.com/in/christiano-mota-oliveira`
+- 🐙 GitHub: `https://github.com/christianooliveira1`
 
 ---
 
-<p align="center"><i>Sempre aprendendo, sempre construindo. 🚀</i></p>
