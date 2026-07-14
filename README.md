@@ -2,10 +2,6 @@
 
 # Olá, eu sou o Christiano 👋
 
-### Christiano Mota Oliveira
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFC%3BFuturo+Engenheiro+de+Backend%3BFoco+em+Fintech+%26+Sistemas+Banc%C3%A1rios" alt="Typing SVG" />
-
 </div>
 
 <br/>
