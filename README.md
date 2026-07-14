@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
-
 <div align="center">
 
 # Olá, eu sou o Christiano 👋
@@ -74,29 +72,6 @@ Sou estudante de tecnologia, atualmente cursando **Ciência da Computação** na
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/demo/pacman.svg">
-    <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
-</picture>
-
-</div>
-
-<br/>
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/christianooliveira1/christianooliveira1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-<img src="https://raw.githubusercontent.com/christianooliveira1/christianooliveira1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 
 </div>
 
