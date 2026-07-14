@@ -14,7 +14,7 @@ Sou estudante de tecnologia, atualmente cursando **Ciência da Computação** na
 
 - 📚 **Estudando atualmente:** programação e o ecossistema fintech brasileiro (Nubank, Itaú, Inter, Stone, PagSeguro)
 - 🎯 **Objetivo:** me tornar **engenheiro de backend**, com foco no setor **fintech/bancário** — aprofundando em **Java** ou **Go** ao lado do que já domino em **Python**
-- 🌎 Localização: Fortaleza, Ceará — Brasil 🇧🇷
+- 🌎 Localização: Novo Oriente, Ceará — Brasil 🇧🇷
 
 <br clear="right"/>
 
