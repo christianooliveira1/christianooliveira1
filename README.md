@@ -4,7 +4,7 @@
 
 ### Christiano Mota Oliveira
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação+na+UFC+%F0%9F%8E%93;Futuro+Engenheiro+de+Backend+%F0%9F%92%BB;Foco+em+Fintech+%26+Sistemas+Bancários+%F0%9F%92%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFC%3BFuturo+Engenheiro+de+Backend%3BFoco+em+Fintech+%26+Sistemas+Banc%C3%A1rios" alt="Typing SVG" />
 
 </div>
 
@@ -12,9 +12,7 @@
 
 ## 👋 Sobre mim
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2g0MjhqeDVxNmxvNzk1a3Yxamw4NzFmaHRsejB6YTZlY2l0cDY1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="280" alt="gif"/>
 
 Sou estudante de tecnologia, atualmente cursando **Ciência da Computação** na **Universidade Federal do Ceará (UFC)**.
 
@@ -22,12 +20,7 @@ Sou estudante de tecnologia, atualmente cursando **Ciência da Computação** na
 - 🎯 **Objetivo:** me tornar **engenheiro de backend**, com foco no setor **fintech/bancário** — aprofundando em **Java** ou **Go** ao lado do que já domino em **Python**
 - 🌎 Localização: Fortaleza, Ceará — Brasil 🇧🇷
 
-</td>
-<td width="35%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2g0MjhqeDVxNmxvNzk1a3Yxamw4NzFmaHRsejB6YTZlY2l0cDY1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="200" alt="gif"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
