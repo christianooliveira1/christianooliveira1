@@ -1,14 +1,12 @@
 <div align="center">
 
-# Olá, eu sou o Christiano 👋
+# Hello world! Sou o Christiano 👋
 
 </div>
 
 <br/>
 
-## 👋 Sobre mim
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2g0MjhqeDVxNmxvNzk1a3Yxamw4NzFmaHRsejB6YTZlY2l0cDY1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="280" alt="gif"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2g0MjhqeDVxNmxvNzk1a3Yxamw4NzFmaHRsejB6YTZlY2l0cDY1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="250" alt="gif"/>
 
 Sou estudante de tecnologia, atualmente cursando **Ciência da Computação** na **Universidade Federal do Ceará (UFC)**.
 
